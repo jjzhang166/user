@@ -1,0 +1,21 @@
+Certificate Request:
+    Data:
+        Version: 3 (0x3)
+        Subject: C=CN, ST=JS, O=CIOTC, CN=lsc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (512 bit)
+                Modulus (512 bit):
+                    00:d5:02:c2:cb:a2:c1:a9:de:b7:2a:fc:75:7a:cc:
+                    6d:7a:3f:3a:79:1b:59:5d:3a:da:3a:39:42:1a:8e:
+                    17:98:c8:64:a4:66:55:e8:1d:52:4b:ad:00:5c:37:
+                    fe:55:ec:69:0e:dc:f3:50:59:5d:07:77:bc:ea:1a:
+                    9b:51:88:b5:b5
+                Exponent: 65537 (0x10001)
+        Attributes:
+            a0:00
+    Signature Algorithm: sha1WithRSAEncryption
+        b9:8a:3b:b0:5e:04:29:3e:ec:ac:fe:81:49:a1:13:39:08:d7:
+        a6:cc:61:e3:28:9a:6d:c4:a7:ce:ee:58:d7:fc:9c:d7:87:a1:
+        fc:d7:43:ba:ae:72:7c:96:30:80:fe:af:fe:17:34:42:61:d1:
+        9c:b4:95:eb:2e:35:c8:e5:18:76
